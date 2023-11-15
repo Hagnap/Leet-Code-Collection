@@ -5,8 +5,8 @@ https://leetcode.com/problemset/all/
 
 ## Programming Languages 
 
-- JavaScript/TypeScript
+- [JavaScript/TypeScript]
 
-- Python
+- [Python]((https://github.com/Hagnap/Leet-Code-Collection/tree/main/Python)
 
 - [SQL](https://github.com/Hagnap/Leet-Code-Collection/tree/main/SQL)
