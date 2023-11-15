@@ -7,6 +7,6 @@ https://leetcode.com/problemset/all/
 
 - [JavaScript/TypeScript]
 
-- [Python]((https://github.com/Hagnap/Leet-Code-Collection/tree/main/Python)
+- [Python](https://github.com/Hagnap/Leet-Code-Collection/tree/main/Python)
 
 - [SQL](https://github.com/Hagnap/Leet-Code-Collection/tree/main/SQL)
