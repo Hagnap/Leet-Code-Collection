@@ -9,4 +9,4 @@ https://leetcode.com/problemset/all/
 
 - Python
 
-- SQL
+- [SQL](https://github.com/Hagnap/Leet-Code-Collection/tree/main/SQL)
