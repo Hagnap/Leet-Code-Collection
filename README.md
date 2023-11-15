@@ -1,4 +1,4 @@
-# Leet-Code-Collection
+# Leet Code Collection
 
 ## Link to LeetCode
 https://leetcode.com/problemset/all/
