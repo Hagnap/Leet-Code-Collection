@@ -1,7 +1,10 @@
 # Leet Code Collection
 
-## Link to LeetCode
-https://leetcode.com/problemset/all/
+## Links
+
+[Link to LeetCode Problems](https://leetcode.com/problemset/all/)
+
+[Link to LeetCode Profile](https://leetcode.com/hagnap/)
 
 ## Programming Languages 
 
