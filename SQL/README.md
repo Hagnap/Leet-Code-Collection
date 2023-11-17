@@ -2,7 +2,7 @@
 
 ## Number of SQL Problems Solved
 
-- Easy: 11
+- Easy: 13
 
 - Medium: 0
 
